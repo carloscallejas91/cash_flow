@@ -28,10 +28,10 @@ Ainda resta um longo caminho para conclusão, seguem lista de funcionalidades a 
 Para executar o aplicativo em sua máquina, siga os passos abaixo:
 
 1. Clone este repositório:
-`git clone https://github.com/seu-usuario/nome-do-projeto.git`
+`git clone https://github.com/carloscallejas91/cash_flow.git`
 
 2. Entre no diretório do projeto:
-`cd nome-do-projeto`
+`cd PATH\cash_flow`
 
 3. Instale as dependências:
 `flutter pub get`
