@@ -1,4 +1,4 @@
-#**Aplicativo de Fluxo de Caixa**
+#**Aplicativo de Fluxo de Caixa**#
 Esta é uma proposta de estudo que tem como objetivo desenvolver um aplicativo de fluxo de caixa para atender às necessidades de uma empresa de pequeno porte. Com este aplicativo o usuário pode acompanhar suas despesas e receitas, criar categorias e descrições personalizadas e visualizar relatórios para uma melhor análise de suas finanças. 
 O aplicativo foi desenvolvido com o framework Flutter.
 
