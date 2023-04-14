@@ -38,3 +38,9 @@ Para executar o aplicativo em sua máquina, siga os passos abaixo:
 
 4. Execute o aplicativo:
 `flutter run`
+
+## Visualização
+De uma forma resumida o aplicativo funciona desta forma:
+
+https://user-images.githubusercontent.com/55441808/232160568-f0ce6ed1-2c77-43b8-bed0-01596085b196.mp4
+
