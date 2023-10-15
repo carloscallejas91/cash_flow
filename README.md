@@ -49,3 +49,5 @@ De uma forma resumida o aplicativo funciona desta forma:
 
 https://user-images.githubusercontent.com/55441808/232160568-f0ce6ed1-2c77-43b8-bed0-01596085b196.mp4
 
+
+![cashflow_plus](https://github.com/carloscallejas91/cash_flow/assets/55441808/81f53fd4-8097-4638-9ad3-124eb93e3b78)
